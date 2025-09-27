@@ -8,6 +8,8 @@ I write code sometimes. When I do, I like to use these (in order of word width c
  - C
 
 I take notes on paper, typing notes just isn't the same
+
 I think functional programming is really neat :)
+
 I like iced lattes and espresso, very tasty
 
