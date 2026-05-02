@@ -7,9 +7,10 @@ I write code sometimes. When I do, I like to use these (in order of word width c
  - Go
  - C
 
-I take notes on paper, typing notes just isn't the same
+I take notes on paper, I think functional programming is really neat, and I like iced lattes and espresso, very tasty.
 
-I think functional programming is really neat :)
+### Also... Rockets!
 
-I like iced lattes and espresso, very tasty
+<img width="1914" height="1131" alt="IMG_0757" src="https://github.com/user-attachments/assets/64cf164c-097e-4c48-b37b-c0bc23076188" />
+
 
