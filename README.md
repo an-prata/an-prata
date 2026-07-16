@@ -13,4 +13,4 @@ I take notes on paper, I think functional programming is really neat, and I like
 
 <img width="1914" height="1131" alt="IMG_0757" src="https://github.com/user-attachments/assets/64cf164c-097e-4c48-b37b-c0bc23076188" />
 
-
+a computer can never be held accountable, therefore a computer must never make a management decision 
